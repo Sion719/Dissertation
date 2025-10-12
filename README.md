@@ -57,14 +57,14 @@ Representative outputs from the analysis include:
 ---
 
 ### Report
-📄 Full dissertation: [`report/Dissertation_Report.pdf`](report/Dissertation_Report.pdf)
+📄 Full dissertation: ['Dissertation/Dissertation_Project.docx']
 
 ---
 
 ### Key Findings
 - Spatial and non-spatial attention both significantly affected VSTM recall accuracy.  
 - Colour and orientation recall exhibited distinct sensitivity to attentional manipulations.  
-- Results provided partial support for a **hybrid model** of visual working memory, combining slot- and resource-based mechanisms.  
+- Results provided partial support for a hybrid model of visual working memory, combining slot and resource-based mechanisms.  
 
 ---
 
@@ -72,10 +72,3 @@ Representative outputs from the analysis include:
 **Sion Pritchard**  
 BSc Psychology with Cognitive Neuroscience  
 [LinkedIn](https://linkedin.com/in/sion-pritchard) • [GitHub](https://github.com/SionPritchard)
-
----
-
-### ⚖️ Disclaimer
-All data has been anonymized and is included solely for educational and portfolio demonstration purposes.  
-No personally identifiable information is contained within this repository.
-
