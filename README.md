@@ -11,7 +11,7 @@ The study investigated how spatial and non-spatial attention independently influ
 - Evaluate whether results align more closely with slot-based or resource-based models of working memory.  
 
 ### Dataset Description
-The dataset represents anonymized behavioural data collected from participants completing visual recall tasks under varying attentional conditions.
+The dataset represents anonymised behavioural data collected from participants completing visual recall tasks under varying attentional conditions.
 
 | Column | Description |
 |---------|-------------|
