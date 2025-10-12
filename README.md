@@ -71,4 +71,4 @@ Representative outputs from the analysis include:
 ### Author
 **Sion Pritchard**  
 BSc Psychology with Cognitive Neuroscience  
-[www.linkedin.com/in/siôn-pritchard) • [GitHub](https://github.com/SionPritchard)
+[www.linkedin.com/in/sionpritchard03) • [GitHub](https://github.com/SionPritchard)
