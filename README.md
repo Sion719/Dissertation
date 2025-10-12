@@ -15,16 +15,15 @@ The dataset represents anonymized behavioural data collected from participants c
 
 | Column | Description |
 |---------|-------------|
-| `ID` | Participant identifier (anonymized) |
-| `A1C_S1` – `A2O_S4` | Accuracy scores under different spatial/non-spatial attention conditions |
+| `ID` | Participant identifier (anonymised) |
+| `A1C_S1` – `A2O_S4` | Accuracy and Reaction Time scores under different spatial/non-spatial attention conditions |
 | `Condition` | Experimental condition label |
 | `FeatureType` | Feature tested (Colour or Orientation) |
 
 #### Files
-- `data/dissertation_data_clean.xlsx` — main dataset  
-- `data/secondary_data.xlsx` — secondary condition dataset (if applicable)  
+- `data/dissertation_data.xlsx` — main dataset   
 - `analysis/summary_statistics.xlsx` — descriptive and inferential results summary  
-- `report/Dissertation_Report.pdf` — full written dissertation  
+- `Dissertation/Dissertation_Project.docx` — full written dissertation  
 
 ---
 
