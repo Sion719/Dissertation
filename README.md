@@ -21,17 +21,15 @@ The dataset represents anonymised behavioural data collected from participants c
 | `FeatureType` | Feature tested (Colour or Orientation) |
 
 #### Files
-- `data/dissertation_data.xlsx` — main dataset   
-- `analysis/summary_statistics.xlsx` — descriptive and inferential results summary  
-- `Dissertation/Dissertation_Project.docx` — full written dissertation  
+- `data/dissertation_data.xlsx` — contains anonymised datasets (Excel) used for analysis  
+- `Dissertation/Dissertation_Project.docx` — full research report including data analysis and interpretation 
 
 ---
 
 ### Analysis
 Analyses were conducted using **JASP** and **Excel**:  
-- **Descriptive statistics:** means, standard deviations, and condition comparisons  
-- **Inferential analysis:** repeated-measures ANOVAs examining effects of spatial and non-spatial attention  
-- **Visualization:** bar plots and interaction charts illustrating condition effects  
+- **Descriptive statistics:** means, standard deviations, and coefficient of variation  
+- **Inferential analysis:** repeated-measures ANOVAs examining effects of spatial and non-spatial attention   
 
 Although the original task code was developed in **Python** and **MATLAB**, only processed data and analysis outputs are provided here for confidentiality and reproducibility reasons.
 
