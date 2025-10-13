@@ -41,8 +41,6 @@ Representative outputs from the analysis include:
 - Interaction effects between spatial and non-spatial attention  
 - Feature-type performance comparisons  
 
-*(Add your charts as images in `/visuals/` and reference them here, e.g.:)*  
-`![VSTM Accuracy by Condition](visuals/vstm_accuracy_chart.png)`
 
 ---
 
