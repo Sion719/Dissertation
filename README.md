@@ -53,7 +53,7 @@ Representative outputs from the analysis include:
 ---
 
 ### Report
-📄 Full dissertation: ['Dissertation/Dissertation_Project.docx']
+📄 Full dissertation: ['Dissertation Project.docx']
 
 ---
 
